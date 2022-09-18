@@ -65,7 +65,7 @@ namespace YesilEv.Dal.Concrete
             }
             catch (Exception e)
             {
-                log.warning("UrunIslemDAL UrunleriGetir"+e.Message);
+                log.warning("UrunIslemDAL UrunleriGetirr"+e.Message);
                 throw;
             }
            
